@@ -1,4 +1,5 @@
 import SideBar from "./components/SideBar";
+import Feed from "./components/home/Feed";
 
 const style = {
   wrapper:
@@ -11,7 +12,7 @@ const Home = () => {
     <div className={style.wrapper}>
       <div className={style.content}>
         <SideBar />
-        <h2>feed</h2>
+        <Feed />
         <h2>widgets</h2>
       </div>
     </div>
