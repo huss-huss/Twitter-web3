@@ -79,7 +79,7 @@ import { IoMdCalendar } from "react-icons/io";
 import { MdOutlineLocationOn } from "react-icons/md";
 
 const style = {
-  wrapper: `px-4 flex flex-row border-b border-[#38444d] pb-4`,
+  wrapper: `px-4 flex flex-row border-b  border-[#38444d] pb-4 `,
   tweetBoxLeft: `mr-4`,
   tweetBoxRight: `flex-1`,
   // profileImage: `h-12 w-12 rounded-full`,
